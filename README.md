@@ -1,5 +1,5 @@
 # security-as-code
-An out-of-the-box solution that provides security guardrails and monitoring for your AWS accounts.   
+An out-of-the-box solution that provides security guardrails and monitoring for your AWS accounts using native aws services.   
 
 # Summary
 
