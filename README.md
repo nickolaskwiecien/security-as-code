@@ -1,10 +1,5 @@
 # security-as-code
-An out-of-the-box solution that provides security monitoring and guardrails for your AWS accounts through Infrastructure as Code.   
-
-## Summary
-
-This tool is designed to provided engineering teams a way to include security monitoring and guardrails into the deployment pipeline of any new enviroment that is stood up.
-
+An out-of-the-box solution that provides security monitoring and guardrails for your AWS accounts through Infrastructure as Code. This tool is designed to provided engineering teams a way to include security monitoring and guardrails into the deployment pipeline of any new enviroment that is stood up.   
 
 ## implementation
 
