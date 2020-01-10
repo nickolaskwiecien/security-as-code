@@ -1,1 +1,3 @@
-#resource "aws_guardduty_detector" "member" {}
+resource "aws_guardduty_detector" "member" {
+      enable = "true"
+  }
