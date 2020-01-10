@@ -9,13 +9,13 @@ This tool is designed to provided engineering teams a way to include security mo
 ## implementation
 
 
-#### AWS Config Managed Rules: 
+##### AWS Config Managed Rules: 
 
 All 245 AWS config managed rules have bee converted into Terraform. Rules can be configured and deployed as needed.  
 
 https://docs.aws.amazon.com/config/latest/developerguide/managed-rules-by-aws-config.html
 
-#### GuardDuty:
+##### GuardDuty:
 
 GuardDuty is an AWS managed service used for threat detection and security monitoring to protect your aws account. A GuardDuty detector is included in this stack to enable security monitoring in your account. 
 
