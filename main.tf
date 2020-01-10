@@ -5,7 +5,3 @@ module "aws-managed-rules" {
 module "cc-guardduty" {
   source = "./cc-guardduty"
 }
-
-resource "aws_guardduty_detector" "member" {
-}
-
