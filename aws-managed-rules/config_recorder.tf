@@ -33,7 +33,7 @@ resource "aws_iam_policy" "config_policy" {
   "Statement": [
     {
       "Action": [
-        "config:Put*"
+        "config:*"
       ],
       "Effect": "Allow",
       "Resource": "*"
