@@ -1,5 +1,5 @@
 provider "aws" {
-  region  = "us-east-2"
-  profile = "qa"
+  region  = "${var.region}"
+  profile = "${var.iam_profile}"
 }
 
