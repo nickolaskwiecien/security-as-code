@@ -11,7 +11,7 @@ This tool is designed to provided engineering teams a way to include security mo
 
 ##### AWS Config Managed Rules: 
 
-All 245 AWS config managed rules have bee converted into Terraform. Rules can be configured and deployed as needed.  
+All 245 AWS config managed rules have been converted into Terraform. Rules can be configured and deployed as needed.  
 
 https://docs.aws.amazon.com/config/latest/developerguide/managed-rules-by-aws-config.html
 
